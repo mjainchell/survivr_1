@@ -1,0 +1,12 @@
+survivr_1 REFLECTIONS
+
+This GEM uses RUBY's metaprogramming capabilites when new methods to change the colors of strings are added to the String
+class.
+
+I estimate I spent about 9 hours working on this project.
+
+The most rewarding challenge conquered was learning how to correctly structure gem files and how to properly build and install
+gems. Also learning the correct syntax for adding classes was rewarding. The whole project was challenging and completing it was very rewarding.
+
+I still have much more to learn regarding Ruby syntax and logic.
+
